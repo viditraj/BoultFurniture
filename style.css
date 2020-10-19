@@ -195,6 +195,6 @@ font-style: "montserrat";
 
 .conitem:hover{
   color: white;
-  transform: scale(1.5);
+  transform: scaleY(1.5);
   transition-duration: 0.5s;
 }
